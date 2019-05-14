@@ -1,3 +1,4 @@
+//MK CONF
 #include<stdio.h>
 #include"myheader.h"
 //sdaf
